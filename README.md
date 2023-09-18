@@ -2,7 +2,7 @@
 -------------------
 ## 主界面
 
-![main](https://github.com/SWAuto/SWAuto/raw/master/main.jpg)
+![main](https://github.com/SWAuto/SWAuto/assets/57001775/9c5c9bf2-ffe9-425c-8cfc-d2e8427fc671)
 -------------------
 ## 功能简介
 
