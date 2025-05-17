@@ -23,3 +23,4 @@
 ## 使用方法 & 下载地址
 
 * 打开 https://autosw.net/swfarm_tutorial/ 查看详情！
+* [Github 下载](https://github.com/SWAuto/SWAuto/releases)
