@@ -2,7 +2,8 @@
 -------------------
 ## 主界面
 
-![main](https://github.com/SWAuto/SWAuto/assets/57001775/9c5c9bf2-ffe9-425c-8cfc-d2e8427fc671)
+<img width="1035" alt="main" src="https://github.com/user-attachments/assets/4219b602-5ca1-47eb-b234-eb353876cffb" />
+
 -------------------
 ## 功能简介
 
@@ -17,7 +18,8 @@
 * 自动化刷商店（bot）
 * 自动化点击经验建筑内魔灵（bot）（**独家功能！**）
 * 自动化用完自动回复的体力（bot）
+* 自定义符文、神器保留规则！
 -------------------
 ## 使用方法 & 下载地址
 
-* 打开 https://farmsw.com/swfarm_tutorial/ 查看详情！
+* 打开 https://autosw.net/swfarm_tutorial/ 查看详情！
